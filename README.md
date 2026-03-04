@@ -1,7 +1,7 @@
 # BhojanSetu
 
 Responsive web platform connecting surplus food providers (restaurants, individuals) with people in need.  
-**Demo:** [https://bhojansetu.netlify.app/demo](https://bhojansetu.netlify.app/demo)
+**Demo:** https://bhojansetu.netlify.app/
 
 ---
 
